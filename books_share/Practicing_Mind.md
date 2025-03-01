@@ -22,14 +22,16 @@ Why You Need This Book:
 If you’ve ever felt frustrated by slow progress or struggled with discipline, this book will change how you approach learning and self-improvement. Sterner blends philosophy, psychology, and real-world application to help you stay motivated and enjoy the process of growth.
 
 Who This Book is For:
-✅ Anyone looking to develop discipline and patience
-✅ Creatives, athletes, and professionals wanting to improve their craft
-✅ People struggling with procrastination or frustration over slow progress
-✅ Fans of Atomic Habits and The Power of Now
-✅ Anyone seeking more mindfulness and presence in daily life
++ ✅ Anyone looking to develop discipline and patience
++ ✅ Creatives, athletes, and professionals wanting to improve their craft
++ ✅ People struggling with procrastination or frustration over slow progress
++ ✅ Fans of Atomic Habits and The Power of Now
++ ✅ Anyone seeking more mindfulness and presence in daily life
 
 What to Expect:
 A refreshing perspective on how to develop focus, discipline, and joy in learning—without the pressure of perfection. Whether you prefer the audiobook, Kindle, or hardcover, The Practicing Mind is a game-changer for personal growth.
 
 BOOK: https://amzn.to/3XdQMU8
+
+![image](https://github.com/user-attachments/assets/330a504b-0e3d-485f-90fd-3cfd2b29cdb3)
 
